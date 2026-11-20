@@ -25,3 +25,15 @@ crickets.ogg      502907  Crickets at Night                                     
 sheep1-3.ogg      414541  Sheep Baa (three baas, New Zealand)                                emilyws
 sheep4-5.ogg      692900  Ewe Shetland Sheep Baa                                             satoristudios3
 sheep6.ogg        710300  Sheep baaing 5 - Norwegian sheep                                   michaelperfect
+cart_hooves.ogg   841364  Horse Carriage Sounds in Zakopane (hooves and wheels)              GirlWithSoundRecorder
+cart_creak.ogg    437085  G52-16-Buckboard Creaking                                          craigsmith
+footsteps.ogg     352870  Footsteps Dirt Gravel                                              PotatokingXII
+march.ogg         333907  squad march                                                        martian
+rain.ogg          595717  Soft Rain Loop (England)                                           _lynks
+boat.ogg          588308  rowing boat rear wave                                              Fenodyrie
+owl1-3.ogg        745208  Tawny owl hooting (Castle of Marostica, Italy)                     Patrick_Corra
+dog1-2.ogg        495658  Dog Bark                                                           aunrea
+dog3.ogg          485961  Dog Barking Distance - 2                                           SpaceJoe
+goat1-2.ogg       581240  Single Goat Bleating 2x                                            Kinoton
+goat3.ogg         677218  mini Goat Baa                                                      satoristudios3
+goat4-5.ogg       200333  Baby goat bleating                                                 jsbarrett

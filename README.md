@@ -8,4 +8,5 @@ mouse.
 
 Open index.html from a web server (it needs https or localhost for the webcam). Everything is in this folder: no downloads.
 
-Built with three.js (MIT) and MediaPipe Face Landmarker (Apache 2.0, in ./mediapipe).
+Built with three.js (MIT) and MediaPipe Face Landmarker (Apache 2.0, in ./mediapipe). The sounds in ./sfx are CC0 field
+recordings from Freesound (see sfx/CREDITS.txt).

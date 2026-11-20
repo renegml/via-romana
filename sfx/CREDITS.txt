@@ -1,0 +1,27 @@
+Via Romana's recorded sounds
+
+All are CC0 (public domain dedication: https://creativecommons.org/publicdomain/zero/1.0/) field recordings from
+Freesound (https://freesound.org). No credit is required; they're listed here with thanks. Each was cut to a seamless
+loop (the steadiest part, its end crossfaded into its start) or a short clip, mixed to mono, levelled, and saved as
+Ogg Opus.
+
+File              Freesound sound                                                            By
+tyre_gravel.ogg   524115  bicycle tires on dirt road or gravel                               Garuda1982
+tyre_earth.ogg    218301  Bike tire on dirt road                                             SpliceSound
+tyre_cobble.ogg   528158  cobblestones (a bike riding over cobblestones)                     gecop
+tyre_smooth.ogg   431350  bicycle rolling field recording on sidewalk                        Garuda1982
+wind.ogg          697217  Looping Gentle Wind Ambience on an Open Desert Plain               dhallcomposer
+wind_trees.ogg    574550  Wind bright trees med white noise slow variability                 TRP
+crowd.ogg         566891  Medium Crowd Ambience Outdoor Talking Background                   KikeVilaplana
+cheer.ogg         346689  Crowd cheer 2                                                      (deleted user 2104797)
+walla.ogg         834339  Outdoors Walla                                                     IENBA
+river.ogg         660262  River flowing sound                                                Tom_Kaszuba
+stream.ogg        786172  Water Stream 2                                                     sound368
+waterfall.ogg     721595  SZKLARKA WATERFALL, Poland                                         GirlWithSoundRecorder
+fountain.ogg      863058  Water from a Fountain Splashing into the Basin                     bassimat
+birds.ogg         462136  forest-bird (2) (morning forest, Darjeeling)                       sama66
+cicadas.ogg       320113  cicadas (Provence, France)                                         laughatlantic
+crickets.ogg      502907  Crickets at Night                                                  hungryrj
+sheep1-3.ogg      414541  Sheep Baa (three baas, New Zealand)                                emilyws
+sheep4-5.ogg      692900  Ewe Shetland Sheep Baa                                             satoristudios3
+sheep6.ogg        710300  Sheep baaing 5 - Norwegian sheep                                   michaelperfect
